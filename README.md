@@ -6,7 +6,7 @@
 |Lâmpada à Venda|
 |-----------------|
 | - estado: boolean <br> - modelo: string <br> - marca: string <br> - tensão: int <br> - preço: double |
-| - liga() <br> - desliga() <br> - mostraPreço() <br> - mostraInformações() |
+| + liga() <br> + desliga() <br> + mostraPreço() <br> + mostraInformações() |
 </div>
 
 #### (Questão 2 - BM) Crie um modelo para representar um time de um esporte qualquer em um campeonato desse esporte. Que dados e operações esse modelo deve ter?
@@ -15,7 +15,7 @@
 |Time de Esporte|
 |---------------|
 | - nomeTime: string  <br> - nomeTécnico: string <br> - pontuação: int |
-| - defineTime() <br> - defineTécnico() <br> - mostrarPontuação() <br> - adicionaPontuação() <br> - removePontuação() <br> - mostraStatus() |
+| + defineTime() <br> + defineTécnico() <br> + mostrarPontuação() <br> + adicionaPontuação() <br> + removePontuação() <br> + mostraStatus() |
 </div>
 
 #### (Questão 3 - BM) Modifique a operação mostraDados do modelo ContaBancariaSimplificada ( ) para que, caso o saldo esteja negativo, uma mensagem de alerta seja impressa. Dica: O saldo só poderá ser negativo se a conta for especial.
